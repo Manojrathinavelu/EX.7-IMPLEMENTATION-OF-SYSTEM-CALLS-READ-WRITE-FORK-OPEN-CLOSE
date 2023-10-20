@@ -107,8 +107,8 @@ return 0;
 ```
 
 # OUTPUT
+![Screenshot 2023-10-20 160052](https://github.com/Manojrathinavelu/EX.7-IMPLEMENTATION-OF-SYSTEM-CALLS-READ-WRITE-FORK-OPEN-CLOSE/assets/119560395/931b2d92-7bcf-4896-999f-17cfb93902c6)
 
-![image](https://github.com/Harsayazheni/EX.7-IMPLEMENTATION-OF-SYSTEM-CALLS-READ-WRITE-FORK-OPEN-CLOSE/assets/118708467/9d6c3f9c-f597-4692-bbef-fa80270ecbd4)
 
 # RESULT
 
